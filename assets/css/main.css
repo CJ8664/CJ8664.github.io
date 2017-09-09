@@ -1574,7 +1574,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #3b5998 !important;
 		}
 
 	strong, b {
@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #3b5998;
 		font-size: 3.5em;
 	}
 
@@ -1789,7 +1789,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			border-color: #3b5998;
 		}
 
 	.select-wrapper {
@@ -1899,7 +1899,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4acaa8;
+			border-color: #3b5998;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2092,7 +2092,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #4acaa8;
+					background: #3b5998;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -2379,7 +2379,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #4acaa8;
+			background-color: #3b5998;
 			color: #ffffff !important;
 		}
 
@@ -2461,8 +2461,8 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
-		color: #d1f1e9;
+		background: #3b5998;
+		color: #dfe3ee;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2481,11 +2481,11 @@
 			}
 
 		#header header p {
-			color: #b6e9dc;
+			color: #8b9dc3;
 		}
 
 		#header a {
-			color: #d1f1e9;
+			color: #dfe3ee;
 		}
 
 			#header a:hover {
@@ -2502,8 +2502,8 @@
 
 			#header > header .avatar {
 				display: block;
-				margin: 0 auto 2.25em auto;
-				width: 8em;
+				margin: 0 auto 0.75em auto;
+				width: 12em;
 			}
 
 			#header > header h1 {
@@ -2512,7 +2512,7 @@
 			}
 
 			#header > header p {
-				color: #d1f1e9;
+				color: #dfe3ee;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2533,7 +2533,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #b6e9dc;
+					color: #8b9dc3;
 				}
 
 		#header > nav {
@@ -2550,7 +2550,6 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb0;
 					display: block;
 					padding: 0;
 				}
@@ -2563,13 +2562,13 @@
 						border: 0;
 						color: #ffffff !important;
 						display: block;
-						padding: 0.85em 0;
+						padding: 0.5em 0;
 						text-decoration: none;
 					}
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #4acaa8 !important;
+							color: #3b5998 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2600,13 +2599,8 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner.jpg");
-		background-position: top right;
-		background-repeat: no-repeat;
-		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
 		width: 100%;
 	}
 
@@ -2661,11 +2655,11 @@
 			}
 
 				#header > header {
-					padding: 2em;
+					padding: 2em 2em 1.5em 2em;
 				}
 
 				#header > footer {
-					padding: 1.5em;
+					padding: 2em;
 				}
 
 		/* Wrapper */
@@ -2848,7 +2842,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
+						background: #3b5998;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
@@ -2958,7 +2952,7 @@
 				}
 
 					#header > header .avatar {
-						margin: 0 auto 1.6875em auto;
+						margin: 0 auto 1.5em auto;
 						width: 6em;
 					}
 
