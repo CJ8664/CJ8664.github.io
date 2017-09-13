@@ -3081,3 +3081,7 @@ input[type="button"]:disabled,
 		padding: 0;
 	}
 }
+.highlight{
+	color:#3b5998;
+	font-weight: bold;
+}
