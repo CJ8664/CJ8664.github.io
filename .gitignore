@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Jekyll / Ruby / Bundler
+_site/
+.sass-cache/
+.jekyll-cache/
+.bundle/
+vendor/bundle/
+Gemfile.lock
+
+# Build outputs & caches
+dist/
+build/
+coverage/
+.cache/
+tmp/
+*.log
+
+# Environment / secrets
+.env
+.env.*.local
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
