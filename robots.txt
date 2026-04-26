@@ -1,1 +1,116 @@
-Sitemap: http://jainchirag.com/sitemap.xml
+# robots.txt for https://chiragjain.info/
+# Last updated 2026
+
+# ====================================================================
+# DEFAULT — allow all standards-compliant search-engine crawlers.
+# ====================================================================
+User-agent: *
+Allow: /
+
+# ====================================================================
+# AI / LLM CRAWLERS — explicit ALLOW.
+# This site is a public personal portfolio; the owner WELCOMES
+# AI-agent indexing for discoverability, knowledge-panel building,
+# and conversational-search inclusion.
+#
+# If you maintain an AI bot not listed here, the wildcard above
+# already permits crawling. These entries are explicit-allow blocks
+# in case any bot defaults to disallow.
+# ====================================================================
+
+# OpenAI
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic (Claude)
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+# Google AI / Gemini training & indexing
+User-agent: Google-Extended
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Common Crawl (used by many AI training corpora)
+User-agent: CCBot
+Allow: /
+
+# Apple Intelligence / Siri / Spotlight summarization
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# ByteDance (Doubao, Coze, etc.)
+User-agent: Bytespider
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+# DuckDuckGo Assist
+User-agent: DuckAssistBot
+Allow: /
+
+# Mistral
+User-agent: MistralAI-User
+Allow: /
+
+# You.com
+User-agent: YouBot
+Allow: /
+
+# Diffbot (knowledge-graph builder)
+User-agent: Diffbot
+Allow: /
+
+# Amazon
+User-agent: Amazonbot
+Allow: /
+
+# Meta (Facebook external link previewer + AI training)
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# X / Twitter card fetcher
+User-agent: Twitterbot
+Allow: /
+
+# LinkedIn link previewer
+User-agent: LinkedInBot
+Allow: /
+
+# Slack link previewer
+User-agent: Slackbot
+Allow: /
+
+# ====================================================================
+# SITEMAPS
+# ====================================================================
+Sitemap: https://chiragjain.info/sitemap.xml

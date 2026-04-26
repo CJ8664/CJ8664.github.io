@@ -1,0 +1,28 @@
+/* TEAM */
+   Owner: Chirag Jain
+   Title: Senior Backend Engineer · Distributed Systems & Infrastructure
+   Site: https://chiragjain.info/
+   Contact: er.chiragjain92@gmail.com
+   Twitter / X: —
+   GitHub: @CJ8664 (https://github.com/CJ8664)
+   LinkedIn: https://www.linkedin.com/in/chiragjain92/
+   From: Las Vegas, Nevada, USA
+
+/* SITE */
+   Last update: 2026-04
+   Language: English (en-US)
+   Doctype: HTML5
+   Standards: HTML5, CSS3, JSON-LD (schema.org), Open Graph, Twitter Cards
+   Components: Single self-contained HTML file with inline CSS/JS, plus
+               sidecar files for AI agents (llms.txt, llms-full.txt,
+               portfolio.md, sitemap.xml, robots.txt).
+   Design influences: Brittany Chiang's bchiang7/v4 + Sasha Shedivat's al-folio.
+   Fonts: Inter, Roboto Slab, JetBrains Mono — served by Google Fonts.
+   Software: Built by hand with assistance from Claude. No build step.
+
+/* THANKS */
+   To Brittany Chiang and to the al-folio community for the design inspiration.
+   To the Servo project (Mozilla) for accepting an open-source contribution
+   that's still part of this résumé.
+   To Pratham Education Foundation and Teach For India for the volunteer
+   engineering opportunities that anchor this story.

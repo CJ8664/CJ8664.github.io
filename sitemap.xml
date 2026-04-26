@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-<url>
-  <loc>http://chiragjain.info/</loc>
-  <lastmod>2020-09-06T17:14:40+00:00</lastmod>
-</url>
+    <url>
+        <loc>https://chiragjain.info/</loc>
+        <lastmod>2026-04-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" type="text/markdown" href="https://chiragjain.info/portfolio.md"/>
+        <xhtml:link rel="alternate" type="text/plain" href="https://chiragjain.info/llms.txt"/>
+        <xhtml:link rel="alternate" type="text/plain" href="https://chiragjain.info/llms-full.txt"/>
+    </url>
+
+    <url>
+        <loc>https://chiragjain.info/portfolio.md</loc>
+        <lastmod>2026-04-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://chiragjain.info/llms.txt</loc>
+        <lastmod>2026-04-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://chiragjain.info/llms-full.txt</loc>
+        <lastmod>2026-04-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
 </urlset>

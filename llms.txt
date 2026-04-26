@@ -1,0 +1,60 @@
+# Chirag Jain — Senior Backend Engineer
+
+> Senior backend engineer at Meta with 7+ years building, scaling, and operating distributed-systems infrastructure at hyperscale. Expert in Python and C++; advanced in Rust and Java; working in Go, PHP, C#, and JavaScript. Native speaker of English, Gujarati, Hindi, Marathi, and Marwari. Based in Las Vegas, Nevada, USA.
+
+This file follows the [llms.txt](https://llmstxt.org/) convention so AI agents can find a structured summary of the site without scraping the full HTML.
+
+## About
+
+- [Portfolio (full single-page HTML)](https://chiragjain.info/): hero, about, experience, education, projects, publications, certifications, awards, working style, career trajectory, contact.
+- [Portfolio (Markdown sidecar)](https://chiragjain.info/portfolio.md): the same content in Markdown for direct LLM consumption.
+- [Full LLM index](https://chiragjain.info/llms-full.txt): exhaustive plain-text dump.
+
+## Contact
+
+- Email: er.chiragjain92@gmail.com
+- Phone: +1-919-884-1081
+- Location: Las Vegas, Nevada, USA
+
+## Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/chiragjain92/)
+- [GitHub @CJ8664](https://github.com/CJ8664)
+- [Instagram @chirag.jainsta](https://www.instagram.com/chirag.jainsta/)
+- [Facebook](https://www.facebook.com/er.chiragjain92/)
+
+## Experience
+
+- **Meta · Software Engineer** (Feb 2019 – present, Menlo Park, CA): ZooKeeper-based distributed configuration system serving 2.5T+ QPM, terabyte-scale log-processing, demand control. Tech: ZooKeeper, Linux, C++, Python, Rust, Java, Hack, Go, MySQL, HP-Vertica.
+- **Meta · Software Engineer Intern** (May 2018 – Aug 2018, Menlo Park, CA): Apps for Groups — searchable App directory in Hack/PHP, React, JavaScript.
+- **JPMorgan Chase & Co. · Associate** (Jan 2017 – Jul 2017, Mumbai): Mortgage-Backed Securities ETL, Production Release Manager.
+- **JPMorgan Chase & Co. · Application Developer** (Jul 2014 – Dec 2016, Mumbai): SQL optimization, philanthropic NGO engineering.
+- **Pratham Education Foundation · Technical Lead** (Aug 2016 – Aug 2017, volunteer, Mumbai): Cloud-based HR/Expense system saving ~$150k/year.
+- **ShipEasy · Co-Developer** (Sep 2013 – Jul 2014, Mumbai): Logistics web platform with Google Maps API.
+- **CAV Aviation Services · Web Developer** (Jul 2013 – Sep 2013, Mumbai): Aviation services website.
+
+## Education
+
+- **MS Computer Science** · North Carolina State University (Jan 2017 – Dec 2018), Raleigh, NC.
+- **BE Computer Engineering** · Dwarkadas J. Sanghvi College of Engineering, University of Mumbai (Jan 2010 – Dec 2014). 5th rank overall across all specializations.
+
+## Publications
+
+Three IJCSE peer-reviewed articles (ISSN 2278-9979 / 2278-9960):
+
+- [Optimization of Traveling Salesman Problem for an Enterprise Resource Planning System | Implementation](http://www.iaset.us/view_archives.php?year=2014_14_2&id=14&jtype=2&page=5) (Jul 30, 2014, with Richa Shah).
+- [Neural Network Applications in Stock Market Predictions](http://www.iaset.us/view_archives.php?year=2013&id=14&jtype=2&page=6) (Nov 30, 2013, with Himali Jani, Shreyansh Jain, Kiran Bhowmick).
+- [Optimization of Traveling Salesman Problem for an Enterprise Resource Planning System](http://www.iaset.us/view_archives.php?year=2013&id=14&jtype=2&page=5) (Oct 30, 2013, with Richa Shah).
+
+## Notable Open-Source
+
+- **Servo / Mozilla** — Microdata API contribution (Oct 2017, Rust): metadata extraction for vCard / vEvent generation via servoshell embedding.
+
+## Awards
+
+- JPMorgan Chase Technology Analyst Development Program
+- Code For Good Challenge — Winning Team (Mumbai 2013)
+- Runners-up — National Level Technical Paper Presentation
+- 5th Rank Overall, Dwarkadas J. Sanghvi College of Engineering
+- Mrs. Momi A. Ochani Scholarship
+- Qualified — National Standard Examination in Physics
